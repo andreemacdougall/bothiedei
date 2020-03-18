@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://rookoosha.qumystery.tech/sitemap.xml
